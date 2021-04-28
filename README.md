@@ -1,2 +1,2 @@
 # Loader_Ring
-Making PreLOader using HTML and CSS
+Making Loader_Ring using HTML and CSS
